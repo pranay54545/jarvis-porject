@@ -20,7 +20,7 @@ A free, offline, modular PC assistant inspired by J.A.R.V.I.S. It uses voice rec
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/jarvis-project.git
+   git clone https://github.com/pranay54545/jarvis-project.git
    cd jarvis-project
    ```
 
